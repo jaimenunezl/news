@@ -25,7 +25,7 @@ const New = ({ element }) => {
             rel="noopener noreferrer"
             className="btn"
           >
-            Ver noticia completa
+            See full story
           </a>
         </div>
       </div>
